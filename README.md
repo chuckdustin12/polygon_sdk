@@ -96,5 +96,5 @@ The project is structured around a single core class, `PolygonOptions`, which en
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your_username>/<your_repository>.git
-cd <your_repository>
+git clone [https://github.com/<your_username>/<your_repository>.git](https://github.com/chuckdustin12/polygon_sdk)
+```
